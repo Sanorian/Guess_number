@@ -24,8 +24,9 @@ input{
     font-size: 4vw;
     width: 30vw;
     background-color: #D581D6;
+    margin-bottom: 2vmin;
 }
-.main{
+main{
     align-items: center;
     background-color: #EE8FF0;
     padding-top: 5vh;
